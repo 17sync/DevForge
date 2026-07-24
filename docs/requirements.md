@@ -211,7 +211,7 @@ without requiring separate interfaces.
 
 ---
 
-# 7. Non-Functional Requirements
+# Non-Functional Requirements
 
 ## Performance
 ```
@@ -264,7 +264,7 @@ The codebase should:
 
 ---
 
-# 8. Technology Stack
+# Technology Stack
 
 ## Frontend
 ```
