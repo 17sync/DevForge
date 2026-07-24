@@ -51,7 +51,7 @@ Initial application layouts were designed using Figma before development began.
 The wireframes establish the structure and navigation flow of the application and include:
 
 - Landing Page
-- Authentication Pages
+- Login Page
 - Dashboard
 - Portfolio Editor
 - Live Preview
