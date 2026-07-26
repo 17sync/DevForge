@@ -73,6 +73,69 @@ src/
 
 ---
 
+# Design Philosophy
+DevForge follows a minimalist design philosophy inspired by modern SaaS applications. The interface avoids excessive decoration and instead emphasizes whitespace, typography, and hierarchy to guide users through the portfolio creation process.
+
+Core design principles include:
+```
+- Simplicity over complexity
+- Functionality over decoration
+- Consistency over novelty
+- Accessibility by default
+- Responsive-first development
+```
+
+---
+
+# Target Audience
+The interface is designed primarily for:
+```
+- Computer Science students
+- Software engineers
+- Frontend developers
+- Backend developers
+- Full-stack developers
+- Freelancers
+- Open-source contributors
+```
+These users generally value clean interfaces and efficient workflows over unnecessary visual effects.
+
+---
+
+# Wireframes
+Initial application layouts were designed using Figma before development began.
+The wireframes establish the structure and navigation flow of the application and include:
+
+- Landing Page
+- Login Page
+- Dashboard
+- Portfolio Editor
+- Live Preview
+
+The following low-fidelity wireframes define the initial user interface and user flow for DevForge. These designs serve as a blueprint for implementation and may evolve throughout development.
+
+## Landing Page
+
+![Landing Page](src/assets/wireframes/landing.png)
+
+## Login
+
+![Login](src/assets/wireframes/login.png)
+
+## Dashboard
+
+![Dashboard](src/assets/wireframes/dashboard.png)
+
+## Portfolio Editor
+
+![Portfolio Editor](src/assets/wireframes/editor.png)
+
+## Live Preview
+
+![Live Preview](src/assets/wireframes/preview.png)
+
+---
+
 # Roadmap
 
 ## Module 1
@@ -96,8 +159,6 @@ Establish the project's foundation by planning the application, designing the us
 ### Module Outcome
 At the end of Module 1, the project should have a well-defined structure, complete planning documentation, and a polished landing page ready for future feature implementation.
 
----
-
 ## Module 2
 **Timeline:** July 27 – August 2, 2026
 
@@ -119,8 +180,6 @@ Implement the application's core functionality by enabling authentication and po
 ### Module Outcome
 At the end of Module 2, users should be able to securely sign in, create portfolios, edit portfolio information, and preview changes in real time.
 
----
-
 ## Module 3
 **Timeline:** August 3 – August 9, 2026
 
@@ -140,8 +199,6 @@ Improve the overall user experience by introducing customization features, respo
 
 ### Module Outcome
 At the end of Module 3, DevForge should provide a highly customizable and visually polished portfolio-building experience.
-
----
 
 ## Module 4
 **Timeline:** August 10 – August 15, 2026
